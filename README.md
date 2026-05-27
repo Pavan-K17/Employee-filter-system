@@ -88,9 +88,7 @@ Employee-filter-system/
 
 ## Dashboard UI
 
-<p align="center">
-  <img width="1000"
-  src="https://github.com/user-attachments/assets/1c900588-679d-4d46-8cf8-a14d91edc677" />
-</p>
+<img width="1600" height="782" alt="dashboard" src="https://github.com/user-attachments/assets/98a0e24d-b0da-41b5-bae4-24198d657544" />
+
 
 
