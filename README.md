@@ -77,11 +77,20 @@ Employee-filter-system/
 
 ---
 
-## Pgadmin
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/45c7d188-baf6-4626-966d-63ecf95c3f95" />
+## PgAdmin
+
+<p align="center">
+  <img width="1000"
+  src="https://github.com/user-attachments/assets/45c7d188-baf6-4626-966d-63ecf95c3f95" />
+</p>
 
 ---
 
 ## Dashboard UI
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1c900588-679d-4d46-8cf8-a14d91edc677" />
+
+<p align="center">
+  <img width="1000"
+  src="https://github.com/user-attachments/assets/1c900588-679d-4d46-8cf8-a14d91edc677" />
+</p>
+
 
