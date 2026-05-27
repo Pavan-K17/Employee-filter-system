@@ -75,8 +75,12 @@ Employee-filter-system/
 │
 └── README.md
 
+---
+
 ## Pgadmin
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/45c7d188-baf6-4626-966d-63ecf95c3f95" />
+
+---
 
 ## Dashboard UI
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1c900588-679d-4d46-8cf8-a14d91edc677" />
